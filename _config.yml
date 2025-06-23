@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Tao Zhe / Site Title"
+title                    : "Tao Zhe"
 title_separator          : "-"
 name                     : &name "Tao Zhe" # Your name, used in the site title and author profile
 description              : &description "personal description"
