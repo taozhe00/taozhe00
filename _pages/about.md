@@ -22,3 +22,5 @@ redirect_from:
 4. General data mining
 
 
+<strong> About me</strong>
+I aim to conduct practical research with direct real-world applications and impact.
