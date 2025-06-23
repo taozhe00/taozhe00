@@ -24,7 +24,8 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    rl: /files/Internship_Application_CV_Tao.pdf
+    #url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
